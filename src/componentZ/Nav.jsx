@@ -9,6 +9,7 @@ const Nav = () => {
       <li><Link  href="/skill1" >skill1</Link></li>
       <li><Link  href="/skill2" >skill2</Link></li>
       <li><Link  href="/skill3" >skill3</Link></li>
+      <li><Link  href="/blog" >blogs</Link></li>
     
     
     </>
@@ -40,11 +41,11 @@ const Nav = () => {
                      {nav}
                   </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">daisyUI</a>
+                <a className="btn btn-ghost text-xl">next.js winter</a>
               </div>
               <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
-                   {nav}
+                     {nav}
                 </ul>
               </div>
               <div className="navbar-end">
