@@ -1,5 +1,10 @@
 
 
+export const metadata = {
+    title: "next.js",
+    description: "this is next.js",
+  };
+  
 
 const page = () => {
 

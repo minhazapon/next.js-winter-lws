@@ -1,5 +1,12 @@
 
 
+
+export const metadata = {
+    title: "react.js",
+    description: "this is react.js",
+  };
+  
+
 const page = () => {
     return (
         <div>

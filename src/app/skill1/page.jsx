@@ -1,6 +1,10 @@
 
 
-
+export const metadata = {
+    title: "javaScript.js",
+    description: "this is javaScript.js",
+  };
+  
 
 const page = () => {
     return (
