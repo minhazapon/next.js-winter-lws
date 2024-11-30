@@ -10,6 +10,7 @@ const Nav = () => {
       <li><Link  href="/skill2" >skill2</Link></li>
       <li><Link  href="/skill3" >skill3</Link></li>
       <li><Link  href="/blog" >blogs</Link></li>
+      <li><Link  href="/post" >post</Link></li>
     
     
     </>
